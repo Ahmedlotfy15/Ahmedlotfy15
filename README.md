@@ -14,8 +14,8 @@
 
 ### 🛠️ Tech Stack  
 - **Programming Languages:** Python  
-- **Libraries & Frameworks:** TensorFlow, Keras, NumPy, Pandas, Matplotlib  
-- **Tools:** Jupyter Notebook, VS Code  
+- **Libraries & Frameworks:** sklearn,TensorFlow, Keras, NumPy, Pandas, Matplotlib  
+- **Tools:** Jupyter Notebook, VS Code ,colab 
 
 ---
 
