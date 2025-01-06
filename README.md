@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ahmed Lotfy
 
 ### 🧠 About Me  
-- 🎓 **Machine Learning Engineer** specialized in **Artificial Intelligence**.  
+- 🎓 **Machine Learning Engineer** .  
 - 💻 Passionate about developing innovative AI solutions and working on challenging machine learning problems.  
 - 🌟 I aspire to continuously learn more about **Artificial Intelligence**, master advanced libraries, and become a leader in this field.
 
