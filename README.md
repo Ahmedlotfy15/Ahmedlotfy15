@@ -26,7 +26,7 @@
   The model is built using a **Convolutional Neural Network (CNN)** and trained on the **Intel Image Classification Dataset**.  
   By leveraging libraries like **Keras** and **TensorFlow**, I achieved significant accuracy in image classification.  
 - **Technologies:** TensorFlow, Keras, Python, CNN  
-- **[GitHub Repository](#)** ([Add your project link here if available](https://github.com/Ahmedlotfy15/intel-image-classification))
+- **[[GitHub Repository](https://github.com/Ahmedlotfy15/intel-image-classification)](#)** 
 
 ---
 
