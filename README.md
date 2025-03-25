@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmed Lotfy
+# 👋 Hi, I'm Ahmed Lotfi
 
 ### 🧠 About Me  
 - 🎓 **Machine Learning Engineer** .  
